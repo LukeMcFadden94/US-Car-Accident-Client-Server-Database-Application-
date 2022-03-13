@@ -1,5 +1,7 @@
 # cs180project-022-kernel-panic
 
+Developed from October to December 2021 with 2 other project members at UCR.
+
 ## Requirements
 
 ### Dataset
